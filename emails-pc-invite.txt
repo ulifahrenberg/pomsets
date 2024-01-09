@@ -1,0 +1,12 @@
+Acclavio,Matteo,macclavio@gmail.com
+Basold,Henning,h.basold@liacs.leidenuniv.nl
+Bedon,Nicolas,nicolas.bedon@univ-rouen.fr
+Choffrut,Christian,cc@irif.fr
+Goubault,Éric,goubault@lix.polytechnique.fr
+Hadzihasanovic,Amar,amar.hadzihasanovic@taltech.ee
+Horne,Ross,Ross.horne@gmail.com
+Kappé,Tobias,tobias.kappe@gmail.com
+Kuske,Dietrich,dietrich.kuske@tu-ilmenau.de
+Rajsbaum,Sergio,sergio.rajsbaum@gmail.com
+Struth,Georg,g.struth@sheffield.ac.uk
+vanGlabbeek,Rob,rvg@cs.stanford.edu
