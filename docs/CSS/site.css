@@ -131,9 +131,9 @@ dd {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   margin-bottom: 5mm;
-  padding: 0 2.5mm 0 5mm;
+  padding: 5mm 2.5mm 5mm 5mm; 
   background-repeat: no-repeat;
-	text-align: center;
+  text-align: center;
 }
 
 .headerTitle * {
