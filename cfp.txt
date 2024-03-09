@@ -1,0 +1,56 @@
+Subject:
+Workshop on Pomsets and Related Structures (RaPS), 24 April, Rennes
+
+Apologies for multiple copies of this email; please distribute as you
+see fit.
+
+                   CALL FOR CONTRIBUTIONS
+
+                        Workshop  on
+               Pomsets and Related Structures
+
+                      Rennes,  France
+		       24 April 2024
+
+          https://ulifahrenberg.github.io/pomsets/
+
+We are organizing a workshop on pomsets and related structures at
+EPITA Rennes in centre town. The workshop is collocated with the ATLAS
+workshop on automata, transducers, logic, algebras & semigroups and
+will be followed by the annual meeting of the French working group on
+data, automata, algebra, and logic (GT DAAL).
+
+The themes of the workshop are partial-order semantics, concurrency
+theory, automata theory, algebra, and geometry. It aims to understand
+the basics of concurrency theory and develop its foundations. We
+welcome contributions in any of the above areas and in neighboring
+subjects such as for example distributed systems, coalgebra, Petri
+nets, or trace theory.
+
+We are calling for presentations of original, unfinished, already
+published, or otherwise interesting work which can highlight how the
+research topics of the workshop may be developed. The workshop will
+have no formal proceedings, but we might organize a journal special
+issue afterwards.
+
+Please send your proposal, in the form of a pdf file of 1-3 pages, to
+uli.fahrenberg@epita.fr by 22 March 2024.
+
+Should you wish to participate but need financial support for doing
+so, please contact us as soon as possible so that we can arrange
+things.
+
+IMPORTANT DATES
+
+    Abstract submission: 22 March 2024
+    Author notification: 29 March 2024
+    Registration: 12 April 2024
+    Workshop: 24 April 2024
+
+ORGANIZERS
+
+    Amazigh Amrane, EPITA, Paris, France
+    Uli Fahrenberg, EPITA & IRISA, Rennes, France
+    Loïc Hélouët, IRISA, Rennes, France
+
+For more information, see https://ulifahrenberg.github.io/pomsets/
