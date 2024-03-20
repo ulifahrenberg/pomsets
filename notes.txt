@@ -1,22 +1,23 @@
 #Confirmed participants:
 
-Amrane,Amazigh,amazigh.amrane@epita.fr,
+Amrane,Amazigh,amazigh.amrane@epita.fr
 Basold,Henning,h.basold@liacs.leidenuniv.nl,TBA
-Bazille,Hugo,hugo1.bazille@epita.fr,
+Bazille,Hugo,hugo1.bazille@epita.fr
 Choffrut,Christian,cc@irif.fr,TBA
-Clement,Emily,emily.clement.cs@gmail.com,
+Clement,Emily,emily.clement.cs@gmail.com
 Fahrenberg,Uli,uli@lrde.epita.fr
 Fortin,Marie,marie.fortin@irif.fr
 Gadducci,Fabio,fabio.gadducci@unipi.it,TBA
 Hélouët,Loïc,loic.helouet@inria.fr,TBA
+Kniazev,Roman,roman@kameronton.com
 Ledent,Jérémy,jeremy.ledent@irif.fr
-Rajsbaum,Sergio,sergio.rajsbaum@gmail.com,
+Passemard,Luc,luc.passemard@polytechnique.edu
+Rajsbaum,Sergio,sergio.rajsbaum@gmail.com
 
 #Possible participants:
 
 Edixhoven,Luc,l.j.edixhoven@liacs.leidenuniv.nl
 Erlich,Enzo,enzo.erlich@ens-rennes.fr
-Kniazev,Roman,roman@kameronton.com
 Michel,Max,michelmx@gmail.com
 vanGool,Sam,vangool@irif.fr
 Zeilberger,Noam,noam.zeilberger@polytechnique.edu
