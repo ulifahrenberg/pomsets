@@ -32,6 +32,7 @@ Fajstrup,Lisbeth,fajstrup@math.aau.dk
 Faustino,Caterina,id10307@alunos.uminho.pt
 Fortin,Marie,marie.fortin@irif.fr
 Fraigniaud,Pierre,pierre.fraigniaud@irif.fr
+Gadducci,Fabio,fabio.gadducci@unipi.it
 Gajda,Michał,mjgajda@gmail.com
 Gastin,Paul,gastin@lmf.cnrs.fr
 Guiraud,Yves,yves.guiraud@imj-prg.fr
@@ -84,3 +85,4 @@ You,Peixin,peixin.you@yale.edu
 Zeilberger,Noam,noam.zeilberger@polytechnique.edu
 Ziemiański,Krzysztof,ziemians@mimuw.edu.pl
 Zouari,Safa,safa.zouari@ntnu.no
+
