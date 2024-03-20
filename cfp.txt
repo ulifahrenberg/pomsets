@@ -10,7 +10,7 @@ see fit.
                Pomsets and Related Structures
 
                       Rennes,  France
-		       24 April 2024
+                       24 April 2024
 
           https://ulifahrenberg.github.io/pomsets/
 
