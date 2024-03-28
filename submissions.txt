@@ -1,0 +1,22 @@
+# Submissions
+
+1. Edixhoven, Luc: Branching pomsets and event structures
+2. Bernardinello, Luca: The Synthesis Problem for Regional Algebras of Labelled Transition Systems
+3. Abbes, Samy: Making concurrent systems probabilistic
+4. Hélouët, Loïc: Hyper Partial Order Logic
+5. Gadducci, Fabio: Concurrent semantics for fusions: Weak prime domains and connected event structures
+6. Choffrut, Christian: Equational theory of ... (attention this is a draft; shared with ATLAS)
+
+# Opinions
+
+Amrane		+?+++?
+Basold		+++++?
+Hélouët		+++x+?
+Kappé		x++++?
+Rajsbaum	++++++
+van Glabbeek	++++++
+Ziemiański	+++++?
+
+sum		667672
+result		+++++?
+
