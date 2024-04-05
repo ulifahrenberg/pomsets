@@ -254,6 +254,65 @@ acronym {
   border-bottom-color: blue;
 }
 
+
 #footer {
   background-color: white;
 }
+/* Style conference program */
+.conference-section {
+    margin: 20px auto;
+    padding: 20px;
+
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.conference-section h3 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.conference-section ul {
+    padding: 0;
+    list-style-type: none; 
+}
+
+.conference-section li {
+    margin-bottom: 15px;
+}
+
+
+.conference-section .break {
+    color: #888;
+    font-style: italic;
+}
+
+
+
+/* Successive talks */
+.conference-section ul ul {
+    margin-top: 10px;
+}
+
+.conference-section ul ul li {
+    padding-left: 20px;
+    border-left: 2px solid #ccc;
+}
+
+/* Talk titles */
+.conference-section .talk {
+    font-weight: bold;
+    color: #555;
+}
+
+.conference-section time {
+    font-weight: bold;
+    color: #555;
+}
+
+.conference-section span {
+    font-style: italic;
+    color: #777;
+}
+
