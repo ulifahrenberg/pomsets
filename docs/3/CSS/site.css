@@ -316,3 +316,19 @@ acronym {
     color: #777;
 }
 
+dl {    
+    padding: 0.1em;
+}
+dt {
+    float: left;
+    clear: left;
+    width: 70px;
+    text-align: right;
+    font-weight: bold;    
+}
+dt:after {
+    content: ":";
+}
+dd {
+    margin: 0 0 0 110px;        
+}
