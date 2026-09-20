@@ -333,7 +333,7 @@ dt {
     font-weight: bold;    
 }
 dt:after {
-    content: ":";
+    content: "";
 }
 dd {
     margin: 0 0 0 110px;        
